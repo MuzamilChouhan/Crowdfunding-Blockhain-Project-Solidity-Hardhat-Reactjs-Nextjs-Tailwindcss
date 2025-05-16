@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Env files
+.env
+
+# Hardhat build files
+artifacts/
+cache/
+
+# Log files
+*.log
+
+# OS-specific
+.DS_Store

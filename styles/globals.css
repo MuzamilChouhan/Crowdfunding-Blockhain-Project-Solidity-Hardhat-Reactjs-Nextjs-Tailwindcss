@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* === Custom Utility Classes === */
+
+/* Backgrounds */
+.background {
+  @apply bg-indigo-600; /* or use #644df6 directly if you prefer: background-color: #644df6; */
+}
+
+.backgroundMain {
+  background-color: #1a1a1a;
+}
+
+/* Text */
+.newColor {
+  color: #1a1a1a;
+}
+
+/* Decorative Line */
+.coverLine {
+  width: 100%;
+  height: 2rem;
+  background-color: #fff;
+  position: absolute;
+  bottom: -1.9rem;
+  z-index: 3;
+  border-radius: 0 0 1rem 1rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
