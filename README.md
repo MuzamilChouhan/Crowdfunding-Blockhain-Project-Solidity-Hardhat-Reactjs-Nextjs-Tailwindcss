@@ -1,6 +1,6 @@
 # CROWDFUNDING-PROJECT
 
-*Empower Ideas, Fuel Dreams, Transform Communities Together*
+*Empower Ideas, Fuel Dreams, Transform Communities Together* 
 
 ![last commit](https://img.shields.io/github/last-commit/MuzamilChouhan/crowdfunding-project)
 ![license](https://img.shields.io/github/license/MuzamilChouhan/crowdfunding-project)
